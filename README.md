@@ -5,8 +5,8 @@ POST
 /addProduct
 
 GET
-/products
-/productById/{id}
+/products, 
+/productById/{id}, 
 /product/{name}
 
 PUT
